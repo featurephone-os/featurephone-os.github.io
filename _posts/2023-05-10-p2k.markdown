@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "P2K"
+tags:
+  - OS
+  - P2K
+  - Motorola
+---
+P2K was used in early Motorola feature phones.
+
+There's a great series of articles about it by a former Motorola engineer: https://www.theregister.com/2012/11/29/rockman_on_motorola/?page=2

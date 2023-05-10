@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Series 40"
+tags:
+  - OS
+  - Series 40
+  - Nokia
+---
+Series 40 is prominent for being one of them feature phone platforms actually having its name explicitly promoted by the vendor (most of them haven't, which in particular created the myth that feature phones don't have operating systems).

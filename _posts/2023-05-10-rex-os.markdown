@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "REX OS"
+tags:
+  - OS
+  - REX OS
+  - Samsung
+---
+REX OS was used in Samsung feature phones.

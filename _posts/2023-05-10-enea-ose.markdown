@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Enea OSE"
+tags:
+  - OS
+  - Enea OSE
+  - Sony Ericsson
+---
+Enea OSE is a Sweden operating system. It was the core of A100 and A200 that mid-end Sony Ericsson feature phones were running.
+
+TODO: a comprehensive list of A100/A200-based models.

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "EZX"
+tags:
+  - OS
+  - EZX
+  - Motorola
+---
+EZX (and MOTOMAGX related to it) were used in late Motorola mid-end feature phones. They had an architecture similar to Android (Java UI atop of Linux kernel), and thus can proudly fall under the "Java OS" myth.

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Nucleus OS"
+tags:
+  - OS
+  - Nucleus OS
+  - Siemens
+  - LG
+---
+Nucleus OS is used in various unrelated phones and has various user interfaces built upon it. Most notable are:
+<ul>
+<li>Siemens feature phones from early 00s</li>
+<li>Some LG phones</li>
+<li>Various Chinese phones having Mediatek CPUs</li>
+</ul>
