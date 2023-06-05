@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "JUIX"
+tags:
+  - OS
+  - JUIX
+  - Linux
+  - Motorola
+---
+JUIX is a cancelled project of a Linux-based OS by Motorola. No devices running it were released, only some engineering prototypes exist.
+
+It has an architecture similar to Android (Java UI atop of Linux kernel), and was started back in 2002, much earlier than Android. It thus can proudly fall under the "Java OS" myth.
+
+It was mentioned in [https://www.theregister.com/2012/11/29/rockman_on_motorola/?page=3](https://www.theregister.com/2012/11/29/rockman_on_motorola/?page=3)

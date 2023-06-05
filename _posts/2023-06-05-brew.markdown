@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "BREW"
+tags:
+  - OS
+  - BREW
+  - Qualcomm
+---
+BREW is an operating system by Qualcomm. Brew MP uses its own RTOS kernel, earlier versions used [REX]({% post_url 2023-05-10-rex-os %}) kernel for that matter. It's used in CDMA phones made by various vendors, including Kyocera, Sharp, and LG. The amount of customization by vendors varies.
+
+It ships its own eponymous application runtime, based on native code. Some versions have a J2ME runtime as well.

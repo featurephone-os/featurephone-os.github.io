@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "LJ"
+tags:
+  - OS
+  - LJ
+  - EZX
+  - MotoMAGX
+  - Linux
+  - Motorola
+---
+LJ is a Linux-based OS used in Motorola mid-end feature phones.
+
+LJ (for LinuxJava) was started in 1999 and targeted the Chinese market first. Further [generations](https://forum.motofan.ru/index.php?showforum=100) were branded as EZX and MotoMAGX, and had a Qt-based UI. Java was used only in midlets and SIM cards, despite the name.
+
+The original pre-EZX LJ project was [renamed to MotoJUIX](https://www.theregister.com/2012/11/29/rockman_on_motorola/?page=3) in its late years. It should not be confused with the cancelled [JUIX]({% post_url 2023-06-05-juix %}) project.
+
+LJ supported only GSM/UMTS stack, so CDMA versions of the same phone models usually ran [P2K]({% post_url 2023-05-10-p2k %}).
