@@ -13,3 +13,20 @@ Nucleus OS is used in various unrelated phones and has various user interfaces b
 <li>Some LG phones</li>
 <li>Various Chinese phones having Mediatek CPUs</li>
 </ul>
+
+#### Confirmed models:
+
+* [Samsung S100](https://www.howardforums.com/showthread.php/100791-Disassembling-the-S100-Firmware?p=809888#post809888), [S105, S300, V205](https://www.howardforums.com/showthread.php/102828-Your-S300-Firmware-versions?p=818678#post818678), [S108](https://www.howardforums.com/showthread.php/114590-S10X-Processor)
+* [Panasonic GD88](https://www.howardforums.com/showthread.php/184648-GD88-OS)
+* [Samsung D800](https://www.howardforums.com/showthread.php/928905-D800-Modding?p=7325779#post7325779)
+* [Kingsun CVFD-M125 McLovin Phone, V902 or Zogo 911](https://forum.gsmhosting.com/vbb/f457/mtk-based-china-phones-briefing-817606/index4.html#post6998249)
+* [Amigo Pro](https://forum.gsmhosting.com/vbb/f457/mtk-based-china-phones-briefing-817606/index4.html#post7366429)
+* [Cherry Mobile Trident Q300](https://forum.gsmhosting.com/vbb/f457/china-phone-pcsuite-most-wanted-cpu-usb-driver-563091/index27.html#post7713716)
+* [LeTo K930](https://forum.gsmhosting.com/vbb/f457/brazilian-chinaphone-dead-help-needed-please-1154108/)
+* [Fly-Ying F003](https://forum.gsmhosting.com/vbb/f457/f003-fly-ying-dual-sim-wifi-phone-787384/index9.html#post5006955)
+* [Thunder](https://forum.gsmhosting.com/vbb/f457/help-needed-phone-connects-automatically-1310881/)
+
+### Misc:
+
+* [Amazon search filter](https://us.amazon.com/s?rh=n%3A7072561011%2Cp_n_feature_thirty-nine_browse-bin%3A113334726011)
+* [Legacy tools](https://web.archive.org/web/20021228233535/www.acceleratedtechnology.com/embedded/cpu_nucleus.php)

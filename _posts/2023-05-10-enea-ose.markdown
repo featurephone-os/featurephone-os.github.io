@@ -9,3 +9,6 @@ tags:
 Enea OSE is a Sweden operating system. It was the core of A100 and A200 that mid-end Sony Ericsson feature phones were running.
 
 TODO: a comprehensive list of A100/A200-based models.
+
+* [SE W900i](https://web.archive.org/web/20080603021821/mobile.sdsc.edu/devices.html#cellsonyericsson)
+* [Model list, sorted by chipsets (Russian)](https://mobilefree.justdanpo.ru/newbb_plus/viewtopic.php?topic_id=1871)
