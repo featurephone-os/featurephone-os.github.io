@@ -7,4 +7,19 @@ tags:
   - Samsung
   - Qualcomm
 ---
-REX OS is a Qualcomm operating system used in Samsung and other Korean feature phones.
+REX OS is a Qualcomm operating system kernel used in Samsung and other Korean feature phones, as well as Motorola.
+
+#### Confirmed models:
+
+* [Samsung F480](https://forum.gsmhosting.com/vbb/f352/f480-os-664745/)
+* [Verzio Duplii](https://forum.gsmhosting.com/vbb/f457/phone-modification-language-firmware-576648/) (also mentioned as [Philips NXP OS](https://www.yugatech.com/mobile/verzio-duplii-a-closer-look-at-the-dual-sim-phone/#comment-213007))
+* [LG BL40 New Chocolate](https://forum.gsmhosting.com/vbb/f177/bl40-questions-answers-906545/)
+* [Pantech Matrix](https://cellphoneforums.net/fr/symbian/t296867-que-les-t%C3%A9l%C3%A9phones-utilisent-symbian.html#post1366861)
+* [LG VX9000](https://www.howardforums.com/showthread.php/155995-Question-about-REX-OS-on-LG-VX9000) aka LG enV (the relation to Franklin/Xircom REX organizers is questionable)
+* [LG CU500](https://www.howardforums.com/showthread.php/993620-LG-CU500-J2ME-specs-and-SDK?p=7832095#post7832095)
+* [Motorola CDMA RAZRs](https://www.howardforums.com/showthread.php/1190671-Dissection-of-a-firmware?p=9445850#post9445850) in general
+
+#### Misc:
+
+* [On REX internals in Motorola phones](https://www.howardforums.com/showthread.php/1088786-The-VZW-UI-is-essentially-a-BREW-application-right?p=8578105#post8578105)
+* [Taking apart a firmware](https://www.howardforums.com/showthread.php/1438145-Taking-Apart-a-Firmware)

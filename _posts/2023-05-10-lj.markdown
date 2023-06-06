@@ -15,4 +15,4 @@ LJ (for LinuxJava) was started in 1999 and targeted the Chinese market first. Fu
 
 The original pre-EZX LJ project was [renamed to MotoJUIX](https://www.theregister.com/2012/11/29/rockman_on_motorola/?page=3) in its late years. It should not be confused with the cancelled [JUIX]({% post_url 2023-06-05-juix %}) project.
 
-LJ supported only GSM/UMTS stack, so CDMA versions of the same phone models usually ran [P2K]({% post_url 2023-05-10-p2k %}).
+LJ supported only GSM/UMTS stack, so CDMA versions of the same phone models usually ran [REX OS]({% post_url 2023-05-10-rex-os %}), or [P2K]({% post_url 2023-05-10-p2k %}).
