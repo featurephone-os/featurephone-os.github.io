@@ -30,3 +30,4 @@ Nucleus OS is used in various unrelated phones and has various user interfaces b
 
 * [Amazon search filter](https://us.amazon.com/s?rh=n%3A7072561011%2Cp_n_feature_thirty-nine_browse-bin%3A113334726011)
 * [Legacy tools](https://web.archive.org/web/20021228233535/www.acceleratedtechnology.com/embedded/cpu_nucleus.php)
+* [TI OMAP reference](https://web.archive.org/web/20060430184748mp_/http://focus.ti.com/general/docs/wtbu/wtbugencontent.tsp?templateId=6123&navigationId=12274&contentId=4624)

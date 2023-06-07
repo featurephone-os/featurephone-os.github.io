@@ -9,6 +9,7 @@ tags:
 Enea OSE is a Sweden operating system. It was the core of A100 and A200 that mid-end Sony Ericsson feature phones were running.
 
 * [SE non-symbian phones ARE NOT "JAVA" phones](https://www.esato.com/board/viewtopic.php?topic=169033)
+* [TI OMAP reference](https://web.archive.org/web/20060430184902/http://focus.ti.com/general/docs/wtbu/wtbugencontent.tsp?templateId=6123&navigationId=12059&contentId=4626)
 
 TODO: a comprehensive list of A100/A200-based models.
 
