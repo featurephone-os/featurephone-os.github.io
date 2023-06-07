@@ -20,3 +20,5 @@ layout: default
 <p>Most feature phones have a Harward architecture, which means the operating system with all native apps are baked into one big image and not in separate files, meaning you cannot easily modify it, upgrade individual apps, install or remove them. Historically, it was the main thing which distinguished feature phones from smart phones, but some feature phones, especially modern ones (if you still call them so) running KaiOS, have applications as separate files too internally.</p>
 
 <p>Use links in the top bar to navigate to articles about specific operating systems and devices.</p>
+
+* [SE non-symbian phones ARE NOT "JAVA" phones](https://www.esato.com/board/viewtopic.php?topic=169033)
